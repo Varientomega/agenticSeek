@@ -4,7 +4,7 @@
   "description": "Render-ready Obscurai agent forked from AgenticSeek",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node setup.js"
   },
   "dependencies": {
     "express": "^4.18.2"
