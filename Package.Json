@@ -1,0 +1,12 @@
+{
+  "name": "obscurai-base-agent",
+  "version": "1.0.0",
+  "description": "Render-ready Obscurai agent based on AgenticSeek",
+  "main": "ag3nt.js",
+  "scripts": {
+    "start": "node ag3nt.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
